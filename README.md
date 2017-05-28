@@ -1,1 +1,1 @@
-# My-DeepLearning-exercises
+# My training skills
