@@ -16,7 +16,7 @@ def add_layer(inputs, in_size=0, out_size=0, activation=None):
 # define data
 x_data = [[0, 1], [0, 0], [1, 1], [1, 0]] # input data
 
-y_data = [[0.], [1.], [0.], [1.]] # target data
+y_data = [[1.], [0.], [0.], [1.]] # target data
 
 test_data = [[1, 1], [1, 1], [1, 1], [1, 1]]
 
